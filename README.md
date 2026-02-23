@@ -1,4 +1,4 @@
-# DDIA Notebook
+# Designing Data-Intensive Applications Notes
 
 An interactive study notebook for [Designing Data-Intensive Applications](https://dataintensive.net/) by Martin Kleppmann, built as a single-file HTML app.
 
